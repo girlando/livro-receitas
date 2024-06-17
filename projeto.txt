@@ -1,1 +1,9 @@
 ola aprendedr novamnete 
+ola soubnova da vida de adulto
+
+git init  
+git status 
+git reflog
+gti reset --heard 
+
+git 
